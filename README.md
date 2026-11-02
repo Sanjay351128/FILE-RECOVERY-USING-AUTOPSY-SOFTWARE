@@ -73,5 +73,26 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ## OUTPUT:
 Recovered Deleted File List and Details
 
+<img width="1920" height="1080" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/a209d857-9609-4446-8a49-70245c35dee4" />
+
+<img width="1920" height="1080" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/0d5b90f9-d73e-44b0-a257-4b9997ff54b7" />
+
+<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/0dd3807e-5d47-4f1f-a927-a71d378839c5" />
+
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/b9b8137d-d82a-4c15-b618-3705cbb8c5b8" />
+
+<img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/913898d2-f08d-4be1-98ed-64a4ecbb062d" />
+
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/02e25a49-5b6f-472d-9423-7503ef25a0bd" />
+
+<img width="1920" height="1080" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/80826369-1eef-426b-aa7d-69061327c750" />
+
+
+
+
+
+
+
+
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
